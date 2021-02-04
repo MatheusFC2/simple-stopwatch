@@ -8,12 +8,12 @@
 
 # Modo de utilização
 
-> Não será descrito a funcionalidade de cada linha, pois no arquivo cron.js, está completamente comentado, então, abaixo você confere as funções necessárias para iniciar, pausar e parar o contador.
+> Não será descrito a funcionalidade de cada linha, pois no arquivo script.js, está completamente comentado, então, abaixo você confere as funções necessárias para iniciar, pausar e parar o contador.
 
-Incorpore o script cron.js a sua página HTML, recomendamos colocar antes do fechamento da tag body. 
+Incorpore o script script.js a sua página HTML, recomendamos colocar antes do fechamento da tag body. 
 
 ```html
-<script src="cron.js"></script>
+<script src="script.js"></script>
 </body>
 ```
 
