@@ -6,6 +6,8 @@
 
 > SatellaSoft: https://satellasoft.com
 
+![image](https://user-images.githubusercontent.com/69259671/151672664-1c9fcb45-a7f1-4dc3-ae25-3e081ce71bb7.png)
+
 # Modo de utilização
 
 > Não será descrito a funcionalidade de cada linha, pois no arquivo script.js, está completamente comentado, então, abaixo você confere as funções necessárias para iniciar, pausar e parar o contador.
